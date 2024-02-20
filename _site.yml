@@ -4,7 +4,6 @@ description: |
   Inspire-Stroke
 output_dir: "docs"
 creative_commons: CC BY
-favicon: images/INSPIRE-STROKE-logo_web.PNG
 navbar:
   logo:
     image: images/INSPIRE-STROKE-logo_web.PNG
