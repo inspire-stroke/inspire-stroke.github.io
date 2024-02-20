@@ -92,7 +92,15 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   <meta property="description" itemprop="description" content="Welcome to the website. I hope you enjoy it!"/>
 
+  <link rel="license" href="https://creativecommons.org/licenses/by/4.0/"/>
+  <link rel="icon" type="image/png" href="images/INSPIRE-STROKE-logo_web.PNG"/>
 
+  <!--  https://schema.org/Article -->
+  <meta property="article:published" itemprop="datePublished" content="2024-02-21"/>
+  <meta property="article:created" itemprop="dateCreated" content="2024-02-21"/>
+  <meta name="article:author" content="Monique Kilkenny"/>
+  <meta name="article:author" content="Lachlan Dalli"/>
+  <meta name="article:author" content="Muideen Olaiya"/>
 
   <!--  https://developers.facebook.com/docs/sharing/webmasters#markup -->
   <meta property="og:title" content="Inspire-Stroke"/>
@@ -110,7 +118,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","site"]}},"value":[{"type":"character","attributes":{},"value":["Inspire-Stroke"]},{"type":"character","attributes":{},"value":["Welcome to the website. I hope you enjoy it!\n"]},{"type":"character","attributes":{},"value":["distill::distill_website"]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","author","date","description","site"]}},"value":[{"type":"character","attributes":{},"value":["Inspire-Stroke"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["first_name","last_name","url","affiliation","orcid_id"]}},"value":[{"type":"character","attributes":{},"value":["Monique"]},{"type":"character","attributes":{},"value":["Kilkenny"]},{"type":"character","attributes":{},"value":["https://github.com/inspire-stroke/inspire-stroke.github.io"]},{"type":"character","attributes":{},"value":["Stroke and Ageing Research Group"]},{"type":"character","attributes":{},"value":["0000-0002-3375-287X"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["first_name","last_name","affiliation","orcid_id"]}},"value":[{"type":"character","attributes":{},"value":["Lachlan"]},{"type":"character","attributes":{},"value":["Dalli"]},{"type":"character","attributes":{},"value":["Stroke and Ageing Research Group"]},{"type":"character","attributes":{},"value":["0000-0003-1449-9132"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["first_name","last_name","affiliation","orcid_id"]}},"value":[{"type":"character","attributes":{},"value":["Muideen"]},{"type":"character","attributes":{},"value":["Olaiya"]},{"type":"character","attributes":{},"value":["Stroke and Ageing Research Group"]},{"type":"character","attributes":{},"value":["0000-0002-4070-0533"]}]}]},{"type":"character","attributes":{},"value":["2024-02-21"]},{"type":"character","attributes":{},"value":["Welcome to the website. I hope you enjoy it!\n"]},{"type":"character","attributes":{},"value":["distill::distill_website"]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2119,7 +2127,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_front_matter-->
 
 <script id="distill-front-matter" type="text/json">
-{"title":"Inspire-Stroke","description":"Welcome to the website. I hope you enjoy it!","authors":[]}
+{"title":"Inspire-Stroke","description":"Welcome to the website. I hope you enjoy it!","authors":[{"author":"Monique Kilkenny","authorURL":"https://github.com/inspire-stroke/inspire-stroke.github.io","affiliation":"Stroke and Ageing Research Group","affiliationURL":"#","orcidID":"0000-0002-3375-287X"},{"author":"Lachlan Dalli","authorURL":"#","affiliation":"Stroke and Ageing Research Group","affiliationURL":"#","orcidID":"0000-0003-1449-9132"},{"author":"Muideen Olaiya","authorURL":"#","affiliation":"Stroke and Ageing Research Group","affiliationURL":"#","orcidID":"0000-0002-4070-0533"}],"publishedDate":"2024-02-21T00:00:00.000+11:00","citationText":"Kilkenny, et al., 2024"}
 </script>
 
 <!--/radix_placeholder_front_matter-->
@@ -2127,6 +2135,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <header class="header header--fixed" role="banner">
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
+<a class="logo">
+<img src="images/INSPIRE-STROKE-logo_web.PNG" alt="Logo"/>
+</a>
 <a href="index.html" class="title">Inspire-Stroke</a>
 </div>
 <div class="nav-right">
@@ -2148,6 +2159,18 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <p><p>Welcome to the website. I hope you enjoy it!</p></p>
 </div>
 
+<div class="d-byline">
+  
+  true
+  
+,   
+  true
+  
+,   
+  true
+  
+<br/>2024-02-21
+</div>
 
 <div class="d-article">
 <div class="sourceCode" id="cb1"><pre class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
@@ -2162,10 +2185,20 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <!--radix_placeholder_site_after_body-->
 <!--/radix_placeholder_site_after_body-->
 <!--radix_placeholder_appendices-->
-<div class="appendix-bottom"></div>
+<div class="appendix-bottom">
+<h3 id="reuse">Reuse</h3>
+<p>Text and figures are licensed under Creative Commons Attribution <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>. The figures that have been reused from other sources don't fall under this license and can be recognized by a note in their caption: "Figure from ...".</p>
+</div>
 <!--/radix_placeholder_appendices-->
 <!--radix_placeholder_navigation_after_body-->
+<div class="distill-site-nav distill-site-footer">
+<p>Inspire-Stroke, Stroke and Ageing Research Group</p>
+<p>Victorian Heart Hospital, email@gmail.com</p>
+<p>This content was created using the Distill for R Markdown template in
+RStudio.</p>
+</div>
 <!--/radix_placeholder_navigation_after_body-->
+
 
 </body>
 

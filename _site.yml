@@ -3,10 +3,16 @@ title: "Inspire-Stroke"
 description: |
   Inspire-Stroke
 output_dir: "docs"
+creative_commons: CC BY
+favicon: images/INSPIRE-STROKE-logo_web.PNG
 navbar:
+  logo:
+    image: images/INSPIRE-STROKE-logo_web.PNG
   right:
     - text: "Home"
       href: index.html
     - text: "About"
       href: about.html
-output: distill::distill_article
+output: 
+  distill::distill_article
+  #css: styles.css
