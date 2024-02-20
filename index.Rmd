@@ -14,9 +14,9 @@ author:
   last_name: Olaiya
   affiliation: Stroke and Ageing Research Group
   orcid_id: "0000-0002-4070-0533"
-date: '`r Sys.Date()`'
-description: "Internaltional Network for Standardised Population Insights and
-  Real-world Evidence for STROKE"
+date: "`r Sys.Date()`"
+description: "Internaltional Network for Standardised Population Insights and Real-world
+  Evidence for STROKE"
 site: distill::distill_website
 ---
 

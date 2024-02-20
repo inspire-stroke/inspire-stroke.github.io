@@ -10,15 +10,17 @@ body {
   color: #1f1f1f;
 }
 
+.distill-site-header{ 
+  font-size: 15px;
+  font-family: "Playfair Display";
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
 .distill-site-header .logo img{
   max-height: 70px; /* Makes logo bigger, default was 20px */
   width: auto;
   margin-top: 5px;
-}
-
-.distill-site-header .title {
-   text-align: center;
-   font-size: 70px;
 }
 
 .distill-site-header .nav-right {
