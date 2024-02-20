@@ -1,0 +1,30 @@
+---
+title: "Inspired-Storke"
+description: |
+  A new article created using the Distill format.
+author:
+  - first_name: "Monique"
+    last_name: "Kilkenny"
+    url: https://github.com/inspire-stroke/inspire-stroke.github.io
+    affiliation: Stroke and Ageing Research Group
+    orcid_id: 0000-0002-3375-287X
+  - first_name: "Lachlan"
+    last_name: "Dalli" 
+    affiliation: Stroke and Ageing Research Group
+    orcid_id: 0000-0003-1449-9132
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Distill is a publication format for scientific and technical writing, native to the web. 
+
+Learn more about using Distill for R Markdown at <https://rstudio.github.io/distill>.
+
+
+
+
+
