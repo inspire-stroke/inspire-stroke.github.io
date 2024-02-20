@@ -6,12 +6,12 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-02-21T09:23:10+11:00"
+      "last_modified": "2024-02-21T10:09:51+11:00"
     },
     {
       "path": "index.html",
       "title": "Inspire-Stroke",
-      "description": "Internaltional Network for Standardised Population Insights and Real-world Evidence for STROKE\n",
+      "description": "Internaltional Network for Standardised Population Insights and Real-world Evidence for STROKE",
       "author": [
         {
           "name": {},
@@ -28,7 +28,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-02-21T09:23:21+11:00"
+      "last_modified": "2024-02-21T10:10:03+11:00"
     }
   ],
   "collections": []

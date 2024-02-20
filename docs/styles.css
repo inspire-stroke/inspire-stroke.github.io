@@ -11,5 +11,17 @@ body {
 }
 
 .distill-site-header .logo img{
-  max-height: 50px; /* Makes logo bigger, default was 20px */
+  max-height: 70px; /* Makes logo bigger, default was 20px */
+  width: auto;
+  margin-top: 5px;
+}
+
+.distill-site-header .title {
+   text-align: center;
+   font-size: 70px;
+}
+
+.distill-site-header .nav-right {
+    top: 75%;
+    margin-top: 15px;
 }
