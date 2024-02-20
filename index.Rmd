@@ -15,8 +15,8 @@ author:
   affiliation: Stroke and Ageing Research Group
   orcid_id: "0000-0002-4070-0533"
 date: "`r Sys.Date()`"
-description: |
-  Welcome to the website. I hope you enjoy it!
+description: "Internaltional Network for Standardised Population Insights and Real-world
+  Evidence for STROKE\n"
 site: distill::distill_website
 ---
 
