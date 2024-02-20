@@ -6,7 +6,23 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-02-21T10:40:41+11:00"
+      "last_modified": "2024-02-21T10:49:45+11:00"
+    },
+    {
+      "path": "contact.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-02-21T10:49:57+11:00"
+    },
+    {
+      "path": "contributor.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-02-21T10:50:09+11:00"
     },
     {
       "path": "index.html",
@@ -28,7 +44,23 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-02-21T10:40:52+11:00"
+      "last_modified": "2024-02-21T10:50:21+11:00"
+    },
+    {
+      "path": "publication.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-02-21T10:50:33+11:00"
+    },
+    {
+      "path": "visual.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2024-02-21T10:50:45+11:00"
     }
   ],
   "collections": []
