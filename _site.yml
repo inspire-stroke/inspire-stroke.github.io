@@ -4,7 +4,7 @@ description: |
   Inspire-Stroke
 output_dir: "docs"
 creative_commons: CC BY
-favicon: images/INSPIRE-STROKE-logo_web.png
+favicon: images/INSPIRE-STROKE-icon.png
 navbar:
   logo:
     image: images/INSPIRE-STROKE-logo_web.png
@@ -19,7 +19,7 @@ navbar:
       href: publication.html
     - text: "Visualisations"
       href: visual.html
-    - text: "Involve"
+    - text: "Join"
       href: involve.html
     - text: "Contact"
       href: contact.html

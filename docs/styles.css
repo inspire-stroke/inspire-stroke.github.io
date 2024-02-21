@@ -1,18 +1,18 @@
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Playfair Display";
+  font-family: "Roboto";
   letter-spacing: 2px;  
   line-height: 2rem; /* increases, so wrapping headers don't overlap */ 
 
 }
 
 body {
-  font-family: "Asap";
+  font-family: "Roboto";
   color: #1f1f1f;
 }
 
 .distill-site-header{ 
   font-size: 15px;
-  font-family: "Playfair Display";
+  font-family: "Roboto";
   letter-spacing: 2px;
   text-transform: uppercase;
 }
@@ -26,4 +26,76 @@ body {
 .distill-site-header .nav-right {
     top: 75%;
     margin-top: 15px;
+}
+
+.roboto-thin {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: normal;
+}
+
+.roboto-thin-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+  font-style: italic;
+}
+
+.roboto-light {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.roboto-light-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  font-style: italic;
+}
+
+.roboto-regular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.roboto-regular-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+
+.roboto-medium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.roboto-medium-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: italic;
+}
+
+.roboto-bold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.roboto-bold-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.roboto-black {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.roboto-black-italic {
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: italic;
 }

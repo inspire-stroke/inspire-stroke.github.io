@@ -6,7 +6,14 @@ title: "Contact"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-##  INSPIRE-STROKE Coordinating Centre
+<head>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+</head>
+
+###  INSPIRE-STROKE Coordinating Centre
+
 Monash University
 631 Blackburn Road
 Clayton VIC 3168
@@ -14,6 +21,7 @@ Australia
 
 INSPIRE-STROKE@monash.edu 
 
-## Principal Chief Investigator:
+### Principal Chief Investigator:
+
 A/Prof Monique Kilkenny
 monique.kilkenny@monash.edu 
