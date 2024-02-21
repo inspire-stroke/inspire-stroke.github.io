@@ -23,6 +23,12 @@ body {
   margin-top: 5px;
 }
 
+@media only screen and (max-width:700px){
+  .logo {
+    display: block;
+  }
+}
+
 .distill-site-header .nav-right {
     top: 75%;
     margin-top: 15px;
@@ -98,4 +104,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: 900;
   font-style: italic;
+}
+
+@media .logo{
 }

@@ -20,7 +20,7 @@ navbar:
     - text: "Team"
       href: team.html
     - text: "Join"
-      href: involve.html
+      href: join.html
     - text: "Contact"
       href: contact.html
 output: 
