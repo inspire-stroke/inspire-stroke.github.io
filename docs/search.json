@@ -5,14 +5,14 @@
       "title": "About the INSPIRE-STROKE",
       "author": [],
       "contents": "\r\n\r\nWhat is INSPIRE-STROKE?\r\nStroke is a leading cause of death and disability globally. With recent advancements in the availability of electronic health data, new opportunities exist to leverage Big Data (e.g. population-level administrative or registry data) being collected around the world to gain deeper insights on the health impacts of stroke globally.\r\nINSPIRE-STROKE was established in 2023 to address current gaps in the surveillance of stroke globally, across important outcomes such as:\r\nReadmissions\r\nMedication utilisation\r\nMortality\r\nHealth economics\r\nPatient-reported outcomes\r\nThis network of international researchers collaborate and apply standardised methods to assess and report health outcomes following stroke to inform policy and practice.\r\nOur Vision\r\nThe vision of INSPIRE-STROKE is to create an enduring system for routine international pooling of Big Data on important stroke outcomes that are not covered in current systems.\r\nINSPIRE-STROKE will monitor outcomes following stroke by:\r\nComparing country-level observational data;\r\nFostering a scientific community to facilitate international benchmarking; and\r\nUsing advanced methods and best-practice standards to ensure findings are reliable and robust.\r\nFunding\r\nThe initial establishment of INSPIRE-STROKE is being funded by a pilot project grant awarded from the STOPstroke NHMRC Synergy Grant. Research fellowship support has also been obtained from the National Heart Foundation of Australia for investigators A/Prof Kilkenny (105737) and Dr Dalli (107125).\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-02-22T09:39:03+11:00"
+      "last_modified": "2024-02-22T09:48:39+11:00"
     },
     {
       "path": "contact.html",
       "title": "Contact",
       "author": [],
       "contents": "\r\n\r\nINSPIRE-STROKE Coordinating Centre\r\nMonash University\r\n631 Blackburn Road\r\nClayton VIC 3168\r\nAustralia\r\nINSPIRE-STROKE@monash.edu\r\nPrincipal Chief Investigator:\r\nA/Prof Monique Kilkenny\r\nmonique.kilkenny@monash.edu\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-02-22T09:39:14+11:00"
+      "last_modified": "2024-02-22T09:48:49+11:00"
     },
     {
       "path": "index.html",
@@ -21,14 +21,14 @@
       "author": [],
       "date": "`r Sys.Date()`",
       "contents": "\r\n\r\nIntroduction Video of INSPIRE-STROKE\r\nStroke is a leading cause of death and disability globally\r\nTackling the burden of stroke will require international collaboration and data-driven solutions to advance health policy and practice\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-02-22T09:39:25+11:00"
+      "last_modified": "2024-02-22T09:49:01+11:00"
     },
     {
       "path": "involve.html",
       "title": "To Get Involved",
       "author": [],
       "contents": "\r\n\r\nPotential Benefits\r\nLearn and apply new analysis techniques\r\nGenerate novel evidence for policy and practice\r\nOpportunity to co-author publications (where authorship criteria are fulfilled)\r\nCollaborate with international leaders in stroke researchers\r\nEnhance your research prole\r\nWhat is involved?\r\nCollaborators will be invited to contribute to working groups and publications focused on addressing important research questions aligned with the INSPIRE-STROKE themes.\r\nCollaborators will perform analyses on their local data and share aggregated summary outputs for data pooling. Collaborators will need access to person-level stroke data that is representative of a geographic region.\r\nWorking groups will meet regularly via teleconference to progress projects, at times convenient for most collaborators.\r\nAdditional input and comment will be sought occasionally by email.\r\nThere will be opportunities to join the INSPIRE-STROKE steering committee and lead future research studies.\r\nWhile overarching ethics has been obtained, each collaborator is responsible for seeking appropriate approvals specific to their dataset.\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-02-22T09:39:36+11:00"
+      "last_modified": "2024-02-22T09:49:11+11:00"
     },
     {
       "path": "publication.html",
@@ -36,14 +36,14 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-02-22T09:39:47+11:00"
+      "last_modified": "2024-02-22T09:49:22+11:00"
     },
     {
       "path": "team.html",
       "title": "About the Team",
       "author": [],
       "contents": "\r\n\r\nCoordinating Centre\r\n\r\n\r\nName\r\n\r\n\r\nAffiliation\r\n\r\n\r\nA/Prof Monique Kilkenny (Chair) \r\n\r\n\r\nMonash University\r\n\r\n\r\nProf Dominique Cadilhac \r\n\r\n\r\nMonash University\r\n\r\n\r\nDr Lachlan Dalli (Coordinator) \r\n\r\n\r\nMonash University\r\n\r\n\r\nDr Muideen Olaiya (Coordinator) \r\n\r\n\r\nMonash University\r\n\r\nCollaborators\r\nAustralia:\r\n\r\n\r\nName\r\n\r\n\r\nAffiliation\r\n\r\n\r\nProf Seana Gall \r\n\r\n\r\nUniversity of Tasmania\r\n\r\n\r\nDr Jenni Ilomäki \r\n\r\n\r\nMonash University\r\n\r\n\r\nDr Lee Nedkoff \r\n\r\n\r\nUniversity of Western Australia\r\n\r\nCanada:\r\n\r\n\r\nName\r\n\r\n\r\nAffiliation\r\n\r\n\r\nProf Moira Kapral \r\n\r\n\r\nToronto General Hospital Research Institute\r\n\r\n\r\nA/Prof Amy Yu \r\n\r\n\r\nSunnybrook Research Institute\r\n\r\nNew Zealand:\r\n\r\n\r\nName\r\n\r\n\r\nAffiliation\r\n\r\n\r\nProf Valery Feigin \r\n\r\n\r\nAuckland University of Technology\r\n\r\nUnited Kingdom:\r\n\r\n\r\nName\r\n\r\n\r\nAffiliation\r\n\r\n\r\nDr Ben Bray\r\n\r\n\r\nKing’s College London\r\n\r\nUSA:\r\n\r\n\r\nName\r\n\r\n\r\nAffiliation\r\n\r\n\r\nProf Mat Reeves\r\n\r\n\r\nMichigan State University\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-02-22T09:40:31+11:00"
+      "last_modified": "2024-02-22T09:49:33+11:00"
     },
     {
       "path": "visual.html",
@@ -51,7 +51,7 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-02-22T09:40:42+11:00"
+      "last_modified": "2024-02-22T09:49:44+11:00"
     }
   ],
   "collections": []
