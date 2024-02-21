@@ -48,6 +48,8 @@ library(kableExtra)
 
 
 # Collaborators
+*Collaborators are sorted alphabetically by Surname
+
 ### Australia: 
 
 <body>
