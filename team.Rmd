@@ -31,15 +31,15 @@ library(kableExtra)
                 <td>Monash University</td>
             </tr>
             <tr>
-                <td>Prof Dominique Cadilhac <a href="https://orcid.org/0000-0001-8162-682X">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Prof Dominique Cadilhac <a href="https://orcid.org/0000-0001-8162-682X" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Monash University</td>
             </tr>
             <tr>
-                <td>Dr Lachlan Dalli (Coordinator) <a href="https://orcid.org/0000-0003-1449-9132">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Dr Lachlan Dalli (Coordinator) <a href="https://orcid.org/0000-0003-1449-9132" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Monash University</td>
             </tr>
             <tr>
-                <td>Dr Muideen Olaiya (Coordinator) <a href="https://orcid.org/0000-0002-4070-0533">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Dr Muideen Olaiya (Coordinator) <a href="https://orcid.org/0000-0002-4070-0533" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Monash University</td>
             </tr>
         </tbody>
@@ -60,15 +60,15 @@ library(kableExtra)
         </thead>
         <tbody>
             <tr>
-                <td>Prof Seana Gall <a href="https://orcid.org/0000-0002-5138-2526">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Prof Seana Gall <a href="https://orcid.org/0000-0002-5138-2526" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>University of Tasmania</td>
             </tr>
             <tr>
-                <td>Dr Jenni Ilomäki <a href="https://orcid.org/0000-0002-0348-9441">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Dr Jenni Ilomäki <a href="https://orcid.org/0000-0002-0348-9441" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Monash University</td>
             </tr>
             <tr>
-                <td>Dr Lee Nedkoff <a href="https://orcid.org/0000-0002-3970-625X">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Dr Lee Nedkoff <a href="https://orcid.org/0000-0002-3970-625X" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>University of Western Australia</td>
             </tr>
         </tbody>
@@ -87,11 +87,11 @@ library(kableExtra)
         </thead>
         <tbody>
             <tr>
-                <td>Prof Moira Kapral <a href="https://orcid.org/0000-0002-3444-9928">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Prof Moira Kapral <a href="https://orcid.org/0000-0002-3444-9928" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Toronto General Hospital Research Institute</td>
             </tr>
             <tr>
-                <td>A/Prof Amy Yu <a href="https://orcid.org/0000-0002-7276-9551">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>A/Prof Amy Yu <a href="https://orcid.org/0000-0002-7276-9551" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Sunnybrook Research Institute</td>
             </tr>
         </tbody>
@@ -110,7 +110,7 @@ library(kableExtra)
         </thead>
         <tbody>
             <tr>
-                <td>Prof Valery Feigin <a href="https://orcid.org/0000-0002-6372-1740">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Prof Valery Feigin <a href="https://orcid.org/0000-0002-6372-1740" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Auckland University of Technology</td>
             </tr>
         </tbody>
