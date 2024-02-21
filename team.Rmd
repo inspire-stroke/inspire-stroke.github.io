@@ -27,7 +27,7 @@ library(kableExtra)
         </thead>
         <tbody>
             <tr>
-                <td>A/Prof Monique Kilkenny (Chair) <a href="https://orcid.org/0000-0002-3375-287X">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>A/Prof Monique Kilkenny (Chair) <a href="https://orcid.org/0000-0002-3375-287X" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Monash University</td>
             </tr>
             <tr>
