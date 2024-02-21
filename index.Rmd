@@ -28,8 +28,5 @@ knitr::opts_chunk$set(echo = FALSE)
 
 --------------------------------------------------------------------------------------------
 
-## Stroke is a leading cause of death and disability globally
-
-\
-
-### Tackling the burden of stroke will require international collaboration and data-driven solutions to advance health policy and practice
+### Stroke is a leading cause of death and disability globally
+Tackling the burden of stroke will require international collaboration and data-driven solutions to advance health policy and practice

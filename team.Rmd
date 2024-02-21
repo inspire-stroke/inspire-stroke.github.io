@@ -4,6 +4,9 @@ title: "About the Team"
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
+#install.packages("kableExtra")
+library(fontawesome)
+library(kableExtra)
 ```
 
 <head>
@@ -12,17 +15,142 @@ knitr::opts_chunk$set(echo = FALSE)
 <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
 </head>
 
-# Coordinating Centre (Monash University)
+# Coordinating Centre
 
--  A/Prof Monique Kilkenny (Chair) 
--  Dr Lachlan Dalli (Coordinator)
--  Dr Muideen Olaiya (Coordinator)
--  Prof Dominique Cadilhac
+<body>
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th style="width:50%">Name</th>
+                <th>Affiliation</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>A/Prof Monique Kilkenny (Chair) <a href="https://orcid.org/0000-0002-3375-287X">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Monash University</td>
+            </tr>
+            <tr>
+                <td>Prof Dominique Cadilhac <a href="https://orcid.org/0000-0001-8162-682X">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Monash University</td>
+            </tr>
+            <tr>
+                <td>Dr Lachlan Dalli (Coordinator) <a href="https://orcid.org/0000-0003-1449-9132">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Monash University</td>
+            </tr>
+            <tr>
+                <td>Dr Muideen Olaiya (Coordinator) <a href="https://orcid.org/0000-0002-4070-0533">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Monash University</td>
+            </tr>
+        </tbody>
+</table>
+</body>
+
 
 # Collaborators
+### Australia: 
 
--  Australia: Prof Seana Gall (University of Tasmania), Dr Jenni Ilomäki (Monash University), Dr Lee Nedkoff (University of Western Australia)
--  USA: Prof Mat Reeves (Michigan State University)
--  Canada:  Prof Moira Kapral (Toronto General Hospital Research Institute); A/Prof Amy Yu (Sunnybrook Research Institute) 
--  New Zealand: Prof Valery Feigin (Auckland University of Technology)
--  United Kingdom: Dr Ben Bray (King’s College London)
+<body>
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th style="width:50%">Name</th>
+                <th>Affiliation</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Prof Seana Gall <a href="https://orcid.org/0000-0002-5138-2526">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>University of Tasmania</td>
+            </tr>
+            <tr>
+                <td>Dr Jenni Ilomäki <a href="https://orcid.org/0000-0002-0348-9441">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Monash University</td>
+            </tr>
+            <tr>
+                <td>Dr Lee Nedkoff <a href="https://orcid.org/0000-0002-3970-625X">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>University of Western Australia</td>
+            </tr>
+        </tbody>
+</table>
+</body>
+
+### Canada:  
+
+<body>
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th style="width:50%">Name</th>
+                <th>Affiliation</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Prof Moira Kapral <a href="https://orcid.org/0000-0002-3444-9928">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Toronto General Hospital Research Institute</td>
+            </tr>
+            <tr>
+                <td>A/Prof Amy Yu <a href="https://orcid.org/0000-0002-7276-9551">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Sunnybrook Research Institute</td>
+            </tr>
+        </tbody>
+</table>
+</body>
+
+### New Zealand: 
+
+<body>
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th style="width:50%">Name</th>
+                <th>Affiliation</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Prof Valery Feigin <a href="https://orcid.org/0000-0002-6372-1740">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Auckland University of Technology</td>
+            </tr>
+        </tbody>
+</table>
+</body>
+
+### United Kingdom: 
+
+<body>
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th style="width:50%">Name</th>
+                <th>Affiliation</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Dr Ben Bray </td>
+                <td>King’s College London</td>
+            </tr>
+        </tbody>
+</table>
+</body>
+
+### USA: 
+
+<body>
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th style="width:50%">Name</th>
+                <th>Affiliation</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Prof Mat Reeves</td>
+                <td>Michigan State University</td>
+            </tr>
+        </tbody>
+</table>
+</body>
