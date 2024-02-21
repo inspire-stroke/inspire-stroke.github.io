@@ -1,22 +1,8 @@
 ---
-title: "Inspire-Stroke"
-author:
-- first_name: Monique
-  last_name: Kilkenny
-  url: "https://github.com/inspire-stroke/inspire-stroke.github.io"
-  affiliation: Stroke and Ageing Research Group
-  orcid_id: "0000-0002-3375-287X"
-- first_name: Lachlan
-  last_name: Dalli
-  affiliation: Stroke and Ageing Research Group
-  orcid_id: "0000-0003-1449-9132"
-- first_name: Muideen
-  last_name: Olaiya
-  affiliation: Stroke and Ageing Research Group
-  orcid_id: "0000-0002-4070-0533"
+title: "INSPIRE-STROKE"
+description: "International Network for Standardised Population Insights and Real-world
+  Evidence for STROKE\n"
 date: "`r Sys.Date()`"
-description: "Internaltional Network for Standardised Population Insights and Real-world
-  Evidence for STROKE"
 site: distill::distill_website
 ---
 
@@ -31,3 +17,12 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ```
 
+# Introduction Video of INSPIRE-STROKE
+
+--------------------------------------------------------------------------------------------
+
+## Stroke is a leading cause of death and disability globally
+
+\
+
+### Tackling the burden of stroke will require international collaboration and data-driven solutions to advance health policy and practice

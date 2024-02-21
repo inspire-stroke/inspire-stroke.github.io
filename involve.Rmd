@@ -1,0 +1,25 @@
+---
+title: "To Get Involved"
+description: null
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Potential benefits
+
+-  Learn and apply new analysis techniques
+-  Generate novel evidence for policy and practice
+-  Opportunity to co-author publications (where authorship criteria are fulfilled)
+-  Collaborate with international leaders in stroke researchers
+-  Enhance your research prole
+
+# What is involved?
+
+-  Collaborators will be invited to contribute to working groups and publications focused on addressing important research questions aligned with the INSPIRE-STROKE themes.
+-  Collaborators will perform analyses on their local data and share aggregated summary outputs for data pooling. Collaborators will need access to person-level stroke data that is representative of a geographic region.
+-  Working groups will meet regularly via teleconference to progress projects, at times convenient for most collaborators.
+-  Additional input and comment will be sought occasionally by email.
+-  There will be opportunities to join the INSPIRE-STROKE steering committee and lead future research studies.
+-  While overarching ethics has been obtained, each collaborator is responsible for seeking appropriate approvals specific to their dataset.

@@ -1,0 +1,22 @@
+---
+title: "About the Team"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Coordinating Centre (Monash University)
+
+-  A/Prof Monique Kilkenny (Chair) 
+-  Dr Lachlan Dalli (Coordinator)
+-  Dr Muideen Olaiya (Coordinator)
+-  Prof Dominique Cadilhac
+
+# Collaborators
+
+-  Australia: Prof Seana Gall (University of Tasmania), Dr Jenni Ilomäki (Monash University), Dr Lee Nedkoff (University of Western Australia)
+-  USA: Prof Mat Reeves (Michigan State University)
+-  Canada:  Prof Moira Kapral (Toronto General Hospital Research Institute); A/Prof Amy Yu (Sunnybrook Research Institute) 
+-  New Zealand: Prof Valery Feigin (Auckland University of Technology)
+-  United Kingdom: Dr Ben Bray (King’s College London)

@@ -1,9 +1,19 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "Contact"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+##  INSPIRE-STROKE Coordinating Centre
+Monash University
+631 Blackburn Road
+Clayton VIC 3168
+Australia
+
+INSPIRE-STROKE@monash.edu 
+
+## Principal Chief Investigator:
+A/Prof Monique Kilkenny
+monique.kilkenny@monash.edu 

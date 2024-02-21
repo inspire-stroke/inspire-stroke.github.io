@@ -1,10 +1,35 @@
 ---
-title: "About this site"
+title: "About the INSPIRE-STROKE"
 description: |
-  Some additional details about the website
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+# What is INSPIRE-STROKE? 
+Stroke is a leading cause of death and disability globally. With recent advancements in the availability of electronic health data, new opportunities exist to leverage Big Data (e.g. population-level administrative or registry data) being collected around the world to gain deeper insights on the health impacts of stroke globally.
+
+INSPIRE-STROKE was established in 2023 to address current gaps in the surveillance of stroke globally, across important outcomes such as:
+
+-  Readmissions
+-  Medication utilisation
+-  Mortality
+-  Health economics
+-  Patient-reported outcomes
+
+This network of international researchers collaborate and apply standardised methods to assess and report health outcomes following stroke to inform policy and practice. 
+
+
+# Our Vision
+The vision of INSPIRE-STROKE is to create an enduring system for routine international pooling of Big Data on important stroke outcomes that are not covered in current systems.
+
+INSPIRE-STROKE will monitor outcomes following stroke by:
+
+-  Comparing country-level observational data;
+-  Fostering a scientific community to facilitate international benchmarking; and
+-  Using advanced methods and best-practice standards to ensure findings are reliable and robust.
+
+
+# Funding
+The initial establishment of INSPIRE-STROKE is being funded by a pilot project grant awarded from the STOPstroke NHMRC Synergy Grant. Research fellowship support has also been obtained from the National Heart Foundation of Australia for investigators A/Prof Kilkenny (105737) and Dr Dalli (107125).
