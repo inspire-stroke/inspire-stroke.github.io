@@ -3,7 +3,7 @@ title: " "
 description: |
   Inspire-Stroke
 output_dir: "docs"
-creative_commons: CC BY
+creative_commons: CC BY-NC
 favicon: images/INSPIRE-STROKE-icon.png
 navbar:
   logo:
@@ -13,12 +13,12 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-    - text: "Team"
-      href: team.html
     - text: "Publications"
       href: publication.html
     - text: "Visualisations"
       href: visual.html
+    - text: "Team"
+      href: team.html
     - text: "Join"
       href: involve.html
     - text: "Contact"

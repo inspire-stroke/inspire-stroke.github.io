@@ -22,10 +22,11 @@ Clayton VIC 3168
 \
 Australia
 
-INSPIRE-STROKE@monash.edu 
+<a href="mailto:INSPIRE-STROKE@monash.edu">INSPIRE-STROKE@monash.edu</a>
 
 ### Principal Chief Investigator:
 
 A/Prof Monique Kilkenny
 
-monique.kilkenny@monash.edu 
+<a href="mailto:monique.kilkenny@monash.edu">monique.kilkenny@monash.edu</a>
+
