@@ -1,7 +1,8 @@
 ---
 title: "INSPIRE-STROKE"
-description: "International Network for Standardised Population Insights and Real-world
-  Evidence for STROKE"
+description: "<strong>I</strong>nternational <strong>N</strong>etwork for <strong>S</strong>tandardised
+  <strong>P</strong>opulation <strong>I</strong>nsights <br/>and <strong>R</strong>eal-world
+  <strong>E</strong>vidence for <strong>STROKE</strong>"
 date: "`r Sys.Date()`"
 site: distill::distill_website
 ---

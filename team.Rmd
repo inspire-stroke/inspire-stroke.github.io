@@ -64,14 +64,16 @@ CA <- world[world$name == "Canada",]
 
 whole <- rbind(UK,USA,NZ,AU,CA)
 whole$people_count <- c(1,1,1,3,2)
-whole$cus_abbr <- c("UK","USA","NZ","AU","CA")
+whole$popup_text <- 
+  paste0('<strong>', whole$subunit, '</strong>',
+         '<br/>', 'Collaborators: ', '<strong>', whole$people_count, '</strong>', ' ') %>% 
+  lapply(htmltools::HTML)
 
 palette <- colorNumeric(palette = "YIOrRd", domain = whole$people_count)
-
-world_map <- leaflet(whole) %>% addTiles() %>% 
-  addMarkers(lng = ~label_x, lat = ~label_y, popup = ~paste(cus_abbr,":",people_count)) %>% 
-  addPolygons(fillColor = ~palette(people_count), fillOpacity = 0.7,stroke = FALSE) 
   
+world_map <- leaflet(whole) %>% addTiles() %>% 
+  addMarkers(lng = ~label_x, lat = ~label_y) %>% 
+  addPolygons(fillColor = ~palette(people_count), fillOpacity = 0.7,stroke = FALSE,label = ~popup_text) 
   
 
 world_map

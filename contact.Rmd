@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Contact us"
 ---
 
 ```{r setup, include=FALSE}
@@ -22,11 +22,11 @@ Clayton VIC 3168
 \
 Australia
 
-<a href="mailto:INSPIRE-STROKE@monash.edu">INSPIRE-STROKE@monash.edu</a>
+<a href="mailto:INSPIRE-STROKE@monash.edu" style="color: #006dab">INSPIRE-STROKE@monash.edu</a>
 
 ### Principal Chief Investigator:
 
 A/Prof Monique Kilkenny
 
-<a href="mailto:monique.kilkenny@monash.edu">monique.kilkenny@monash.edu</a>
+<a href="mailto:monique.kilkenny@monash.edu" style="color: #006dab">monique.kilkenny@monash.edu</a>
 
