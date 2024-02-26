@@ -17,11 +17,11 @@
     {
       "path": "index.html",
       "title": "INSPIRE-STROKE",
-      "description": "<strong>I<\/strong>nternational <strong>N<\/strong>etwork for <strong>S<\/strong>tandardised <strong>P<\/strong>opulation <strong>I<\/strong>nsights <br/>and <strong>R<\/strong>eal-world <strong>E<\/strong>vidence for <strong>STROKE<\/strong>",
+      "description": "International Network for Standardised Population Insights <br/>and Real-world Evidence for STROKE",
       "author": [],
       "date": "`r Sys.Date()`",
       "contents": "\r\n\r\nIntroduction Video of INSPIRE-STROKE\r\nStroke is a leading cause of death and disability globally\r\nTackling the burden of stroke will require international collaboration and data-driven solutions to advance health policy and practice\r\n\r\n\r\n\r\n",
-      "last_modified": "2024-02-27T10:43:48+11:00"
+      "last_modified": "2024-02-27T10:52:13+11:00"
     },
     {
       "path": "join.html",
