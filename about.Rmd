@@ -1,6 +1,6 @@
 ---
 title: "About the INSPIRE-STROKE"
-description: |
+description: null
 ---
 
 ```{r setup, include=FALSE}
@@ -16,13 +16,13 @@ knitr::opts_chunk$set(echo = FALSE)
 # What is INSPIRE-STROKE? 
 Stroke is a leading cause of death and disability globally. With recent advancements in the availability of electronic health data, new opportunities exist to leverage Big Data (e.g. population-level administrative or registry data) being collected around the world to gain deeper insights on the health impacts of stroke globally.
 
-INSPIRE-STROKE was established in 2023 to address current gaps in the surveillance of stroke globally, across important outcomes such as:
+INSPIRE-STROKE was established in 2023 to address current gaps in the surveillance of stroke globally, across important treatment outcomes such as:
 
--  Readmissions
--  Medication utilisation
--  Mortality
--  Health economics
--  Patient-reported outcomes
+1.  Readmissions
+2.  Medication utilisation 
+3.  Mortality
+4.  Health economics
+5.  Patient-reported outcomes
 
 This network of international researchers collaborate and apply standardised methods to assess and report health outcomes following stroke to inform policy and practice. 
 
