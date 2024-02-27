@@ -12,19 +12,23 @@ knitr::opts_chunk$set(echo = FALSE)
 <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
 </head>
 
-# Potential Benefits
+<h1 style="text-align: center;">Potential Benefits</h1>
 
+<div style='text-align: justify;'>
 -  Learn and apply new analysis techniques
 -  Generate novel evidence for policy and practice
 -  Opportunity to co-author publications (where authorship criteria are fulfilled)
 -  Collaborate with international leaders in stroke researchers
 -  Enhance your research prole
+</div>
 
-# What is involved?
+<h1 style="text-align: center;">What is involved?</h1>
 
+<div style='text-align: justify;'>
 -  Collaborators will be invited to contribute to working groups and publications focused on addressing important research questions aligned with the INSPIRE-STROKE themes.
 -  Collaborators will perform analyses on their local data and share aggregated summary outputs for data pooling. Collaborators will need access to person-level stroke data that is representative of a geographic region.
 -  Working groups will meet regularly via teleconference to progress projects, at times convenient for most collaborators.
 -  Additional input and comment will be sought occasionally by email.
 -  There will be opportunities to join the INSPIRE-STROKE steering committee and lead future research studies.
 -  While overarching ethics has been obtained, each collaborator is responsible for seeking appropriate approvals specific to their dataset.
+</div>
