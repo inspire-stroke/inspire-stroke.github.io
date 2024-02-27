@@ -68,11 +68,16 @@ whole$popup_text <-
          '<br/>', 'Collaborators: ', '<strong>', whole$people_count, '</strong>', ' ') %>% 
   lapply(htmltools::HTML)
 
-palette <- colorNumeric(palette = "YIOrRd", domain = whole$people_count)
+palette <- colorNumeric(palette = "YlOrRd", domain = whole$people_count)
   
 world_map <- leaflet(whole) %>% addTiles() %>% 
   addMarkers(lng = ~label_x, lat = ~label_y) %>% 
-  addPolygons(fillColor = ~palette(people_count), fillOpacity = 0.7,stroke = FALSE,label = ~popup_text) 
+  addPolygons(fillColor = ~palette(people_count),weight =1,
+              color = "white", fillOpacity = 0.7,label = ~popup_text,
+              highlight = highlightOptions(weight = 4,
+                                       color = "#666",
+                                       fillOpacity = 0.7,
+                                       bringToFront = TRUE)) 
   
 
 world_map
