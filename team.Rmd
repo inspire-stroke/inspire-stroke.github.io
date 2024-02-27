@@ -50,9 +50,8 @@ library(rnaturalearth)
 </body>
 
 # Collaborators
-*Collaborators are sorted alphabetically by Surname
 
-```{r, echo=FALSE}
+```{r,out.width="100%"  ,echo=FALSE}
 
 world <- ne_countries(scale = "medium", returnclass = "sf")
 
@@ -78,6 +77,8 @@ world_map <- leaflet(whole) %>% addTiles() %>%
 
 world_map
 ```
+
+*Collaborators are sorted alphabetically by Surname
 
 ### Australia: 
 
