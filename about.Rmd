@@ -1,5 +1,5 @@
 ---
-title: "About the INSPIRE-STROKE"
+title: "&ensp;About the INSPIRE-STROKE"
 description: null
 ---
 
