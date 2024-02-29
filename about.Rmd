@@ -45,6 +45,9 @@ INSPIRE-STROKE will monitor outcomes following stroke by:
 -  Fostering a scientific community to facilitate international benchmarking
 -  Using advanced methods and best-practice standards to ensure findings are reliable and robust.
 
+# How INSPIRE-STROKE works?
+
+![](images/Data_Collaboration_Figure_2024_02_29.png)
 
 # Funding
 
