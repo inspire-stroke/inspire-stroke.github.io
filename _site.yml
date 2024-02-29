@@ -23,6 +23,8 @@ navbar:
       href: join.html
     - text: "Contact"
       href: contact.html
+    - icon: fa-brands fa-github
+      href: https://github.com/inspire-stroke
 output: 
   distill::distill_article:
     css: styles.css
