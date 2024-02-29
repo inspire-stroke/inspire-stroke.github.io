@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 -  Generate novel evidence for policy and practice
 -  Opportunity to co-author publications (where authorship criteria are fulfilled)
 -  Collaborate with international leaders in stroke researchers
--  Enhance your research prole
+-  Enhance your research role
 </div>
 
 # What is involved?
@@ -32,3 +32,6 @@ knitr::opts_chunk$set(echo = FALSE)
 -  There will be opportunities to join the INSPIRE-STROKE steering committee and lead future research studies.
 -  While overarching ethics has been obtained, each collaborator is responsible for seeking appropriate approvals specific to their dataset.
 </div>
+ 
+\
+**Please email us if you'd like to join**
