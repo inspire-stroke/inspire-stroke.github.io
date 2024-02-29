@@ -25,6 +25,7 @@ navbar:
       href: contact.html
     - icon: fa-brands fa-github
       href: https://github.com/inspire-stroke
+      target: _blank
 output: 
   distill::distill_article:
     css: styles.css
