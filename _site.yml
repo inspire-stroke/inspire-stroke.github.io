@@ -3,7 +3,7 @@ title: " "
 description: |
   Inspire-Stroke
 output_dir: "docs"
-creative_commons: CC BY-NC
+#creative_commons: CC BY-NC
 favicon: images/INSPIRE-STROKE-icon.png
 navbar:
   logo:
