@@ -45,6 +45,10 @@ library(rnaturalearth)
                 <td>Dr Muideen Olaiya (Coordinator) <a href="https://orcid.org/0000-0002-4070-0533" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Monash University</td>
             </tr>
+            <tr>
+                <td>Dr Joosup Kim <a href="https://orcid.org/0000-0002-4079-0428" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Monash University</td>
+            </tr>
         </tbody>
 </table>
 </body>
@@ -60,9 +64,10 @@ USA <-world[world$admin == "United States of America",]
 NZ <- world[world$name == "New Zealand",]
 AU <- world[world$name == "Australia",]
 CA <- world[world$name == "Canada",]
+SW <- world[world$name == "Switzerland",]
 
-whole <- rbind(UK,USA,NZ,AU,CA)
-whole$people_count <- c(1,1,1,3,2)
+whole <- rbind(UK,USA,NZ,AU,CA,SW)
+whole$people_count <- c(1,1,1,3,2,1)
 whole$popup_text <- 
   paste0('<strong>', whole$subunit, '</strong>',
          '<br/>', 'Collaborators: ', '<strong>', whole$people_count, '</strong>', ' ') %>% 
@@ -104,6 +109,7 @@ world_map
                 <td>Dr Jenni Ilomäki <a href="https://orcid.org/0000-0002-0348-9441" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Monash University</td>
             </tr>
+            <tbody>
             <tr>
                 <td>Dr Lee Nedkoff <a href="https://orcid.org/0000-0002-3970-625X" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>University of Western Australia</td>
@@ -149,6 +155,25 @@ world_map
             <tr>
                 <td>Prof Valery Feigin <a href="https://orcid.org/0000-0002-6372-1740" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Auckland University of Technology</td>
+            </tr>
+        </tbody>
+</table>
+</body>
+
+### Switzerland
+
+<body>
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th style="width:50%">Name</th>
+                <th>Affiliation</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Dr Isabelle Arnet <a href="https://orcid.org/0000-0001-7591-4104" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Auckland University of Basel</td>
             </tr>
         </tbody>
 </table>
