@@ -173,7 +173,7 @@ world_map
         <tbody>
             <tr>
                 <td>Dr Isabelle Arnet <a href="https://orcid.org/0000-0001-7591-4104" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
-                <td>Auckland University of Basel</td>
+                <td>University of Basel</td>
             </tr>
         </tbody>
 </table>
