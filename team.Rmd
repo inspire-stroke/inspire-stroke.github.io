@@ -160,7 +160,7 @@ world_map
 </table>
 </body>
 
-### Switzerland
+### Switzerland:
 
 <body>
 <table id="example" class="display" style="width:100%">
