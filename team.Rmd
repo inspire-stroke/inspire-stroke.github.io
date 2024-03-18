@@ -109,7 +109,6 @@ world_map
                 <td>Dr Jenni Ilomäki <a href="https://orcid.org/0000-0002-0348-9441" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Monash University</td>
             </tr>
-            <tbody>
             <tr>
                 <td>Dr Lee Nedkoff <a href="https://orcid.org/0000-0002-3970-625X" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>University of Western Australia</td>
