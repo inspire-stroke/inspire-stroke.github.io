@@ -48,6 +48,10 @@ INSPIRE-STROKE will monitor outcomes following stroke by:
 
 ![](images/Data_Collaboration_Figure_2024_02_29.png)
 
+<div style='text-align: justify;'>
+The INSPIRE-STROKE Coordinating Centre has been approved by Monash University Human Research Ethics Committee (Approval no. 41990) to conduct this project.
+</div>
+
 # Funding
 
 <div style='text-align: justify;'>
