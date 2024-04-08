@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = FALSE)
 -  Generate novel evidence for policy and practice
 -  Opportunity to co-author publications (where authorship criteria are fulfilled)
 -  Collaborate with international leaders in stroke researchers
--  Enhance your research role
+-  Enhance your research profile
 </div>
 
 # What is involved?
