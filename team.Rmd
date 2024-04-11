@@ -65,9 +65,11 @@ NZ <- world[world$name == "New Zealand",]
 AU <- world[world$name == "Australia",]
 CA <- world[world$name == "Canada",]
 SW <- world[world$name == "Switzerland",]
+CH <- world[world$name == "China",]
+PO <- world[world$name == "Poland",]
 
-whole <- rbind(UK,USA,NZ,AU,CA,SW)
-whole$people_count <- c(1,1,1,3,2,1)
+whole <- rbind(UK,USA,NZ,AU,CA,SW,CH,PO)
+whole$people_count <- c(2,3,1,3,6,1,1,1)
 whole$popup_text <- 
   paste0('<strong>', whole$subunit, '</strong>',
          '<br/>', 'Collaborators: ', '<strong>', whole$people_count, '</strong>', ' ') %>% 
@@ -129,12 +131,47 @@ world_map
         </thead>
         <tbody>
             <tr>
+                <td>Prof Michael Hill <a href="https://orcid.org/0000-0002-6269-1543" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>University of Calgary - Foothills Medical Centre</td>
+            </tr>
+            <tr>
                 <td>Prof Moira Kapral <a href="https://orcid.org/0000-0002-3444-9928" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
-                <td>Toronto General Hospital Research Institute</td>
+                <td>University of Toronto</td>
+            </tr>
+            <tr>
+                <td>A/Prof Gustavo Saposnik <a href="https://orcid.org/0000-0002-5950-9886" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>University of Toronto</td>
+            </tr>
+            <tr>
+                <td>Prof Eric Smith <a href="https://orcid.org/0000-0003-3956-1668" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>University of Calgary</td>
+            </tr>
+            <tr>
+                <td>A/Prof Manav Vyas <a href="https://orcid.org/0000-0002-2953-2540" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>St. Michael's Hospital - Unity Health Toronto</td>
             </tr>
             <tr>
                 <td>A/Prof Amy Yu <a href="https://orcid.org/0000-0002-7276-9551" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
-                <td>Sunnybrook Research Institute</td>
+                <td>University of Toronto</td>
+            </tr>
+        </tbody>
+</table>
+</body>
+
+### China: 
+
+<body>
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th style="width:50%">Name</th>
+                <th>Affiliation</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Dr Wen-Jun Tu <a href="https://orcid.org/0000-0002-1703-1802" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Beijing Tiantan Hospital, Capital Medical University</td>
             </tr>
         </tbody>
 </table>
@@ -154,6 +191,25 @@ world_map
             <tr>
                 <td>Prof Valery Feigin <a href="https://orcid.org/0000-0002-6372-1740" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Auckland University of Technology</td>
+            </tr>
+        </tbody>
+</table>
+</body>
+
+### Poland:
+
+<body>
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th style="width:50%">Name</th>
+                <th>Affiliation</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Dr Maciej Niewada <a href="https://orcid.org/0000-0002-3730-1996" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Medical University of Warsaw</td>
             </tr>
         </tbody>
 </table>
@@ -190,8 +246,12 @@ world_map
         </thead>
         <tbody>
             <tr>
-                <td>Dr Ben Bray </td>
+                <td>Dr Ben Bray <a href="https://orcid.org/0000-0002-8983-7530" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>King’s College London</td>
+            </tr>
+            <tr>
+                <td>Prof William Whiteley <a href="https://orcid.org/0000-0002-4816-8991" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>University of Edinburgh</td>
             </tr>
         </tbody>
 </table>
@@ -209,8 +269,16 @@ world_map
         </thead>
         <tbody>
             <tr>
-                <td>Prof Mat Reeves</td>
+                <td>A/Prof Brian Mac Grory <a href="https://orcid.org/0000-0003-3914-8419" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Duke University</td>
+            </tr>
+            <tr>
+                <td>Prof Mat Reeves <a href="https://orcid.org/0000-0002-8019-6343" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Michigan State University</td>
+            </tr>
+            <tr>
+                <td>A/Prof Ying Xian <a href="https://orcid.org/0000-0002-1237-1162" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>University of Texas Southwestern Medical Center</td>
             </tr>
         </tbody>
 </table>
