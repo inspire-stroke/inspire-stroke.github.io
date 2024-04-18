@@ -64,12 +64,15 @@ USA <-world[world$admin == "United States of America",]
 NZ <- world[world$name == "New Zealand",]
 AU <- world[world$name == "Australia",]
 CA <- world[world$name == "Canada",]
-SW <- world[world$name == "Switzerland",]
-CH <- world[world$name == "China",]
+CH <- world[world$name == "Switzerland",]
+CN <- world[world$name == "China",]
 PO <- world[world$name == "Poland",]
+AUT <- world[world$name == "Austria", ]
+IT <- world[world$name == "Italy",]
+SW <- world[world$name == "Sweden",]
 
-whole <- rbind(UK,USA,NZ,AU,CA,SW,CH,PO)
-whole$people_count <- c(2,3,1,3,6,1,1,1)
+whole <- rbind(AU,AUT,CA,CN,IT,NZ,PO,SW,CH,UK,USA)
+whole$people_count <- c(3,1,6,1,1,1,1,1,1,2,3)
 whole$popup_text <- 
   paste0('<strong>', whole$subunit, '</strong>',
          '<br/>', 'Collaborators: ', '<strong>', whole$people_count, '</strong>', ' ') %>% 
