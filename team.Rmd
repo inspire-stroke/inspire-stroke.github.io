@@ -119,6 +119,25 @@ world_map
 </table>
 </body>
 
+### Austria: 
+
+<body>
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th style="width:50%">Name</th>
+                <th>Affiliation</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>MD Julia Ferrari <a href="https://orcid.org/0000-0001-9709-0097" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Department of Neurology, St. John's of God Hospital Vienna</td>
+            </tr>
+        </tbody>
+</table>
+</body>
+
 ### Canada:  
 
 <body>
@@ -151,7 +170,7 @@ world_map
                 <td>St. Michael's Hospital - Unity Health Toronto</td>
             </tr>
             <tr>
-                <td>A/Prof Amy Yu <a href="https://orcid.org/0000-0002-7276-9551" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Associate Prof Amy Yu <a href="https://orcid.org/0000-0002-7276-9551" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>University of Toronto</td>
             </tr>
         </tbody>
@@ -172,6 +191,25 @@ world_map
             <tr>
                 <td>Dr Wen-Jun Tu <a href="https://orcid.org/0000-0002-1703-1802" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Beijing Tiantan Hospital, Capital Medical University</td>
+            </tr>
+        </tbody>
+</table>
+</body>
+
+### Italy: 
+
+<body>
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th style="width:50%">Name</th>
+                <th>Affiliation</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Dr Simona Sacco <a href="https://orcid.org/0000-0003-0651-1939" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>University of L'Aquila</td>
             </tr>
         </tbody>
 </table>
@@ -210,6 +248,25 @@ world_map
             <tr>
                 <td>Dr Maciej Niewada <a href="https://orcid.org/0000-0002-3730-1996" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Medical University of Warsaw</td>
+            </tr>
+        </tbody>
+</table>
+</body>
+
+### Sweden
+
+<body>
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th style="width:50%">Name</th>
+                <th>Affiliation</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Prof Bo Norrving <a href="https://orcid.org/0000-0002-8024-5096" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Lund University</td>
             </tr>
         </tbody>
 </table>
@@ -269,7 +326,7 @@ world_map
         </thead>
         <tbody>
             <tr>
-                <td>A/Prof Brian Mac Grory <a href="https://orcid.org/0000-0003-3914-8419" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Associate Prof Brian Mac Grory <a href="https://orcid.org/0000-0003-3914-8419" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Duke University</td>
             </tr>
             <tr>
