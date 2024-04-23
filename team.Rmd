@@ -70,9 +70,10 @@ PO <- world[world$name == "Poland",]
 AUT <- world[world$name == "Austria", ]
 IT <- world[world$name == "Italy",]
 SW <- world[world$name == "Sweden",]
+FR <- world[world$name == "France",]
 
-whole <- rbind(AU,AUT,CA,CN,IT,NZ,PO,SW,CH,UK,USA)
-whole$people_count <- c(3,1,6,1,1,1,1,1,1,2,3)
+whole <- rbind(AU,AUT,CA,CN,FR,IT,NZ,PO,SW,CH,UK,USA)
+whole$people_count <- c(4,1,6,1,1,1,1,1,2,1,3,3)
 whole$popup_text <- 
   paste0('<strong>', whole$subunit, '</strong>',
          '<br/>', 'Collaborators: ', '<strong>', whole$people_count, '</strong>', ' ') %>% 
@@ -106,6 +107,10 @@ world_map
             </tr>
         </thead>
         <tbody>
+            <tr>
+                <td>Ms Belinda Baker </td>
+                <td>Australian Institute of Health and Welfare</td>
+            </tr>
             <tr>
                 <td>Prof Seana Gall <a href="https://orcid.org/0000-0002-5138-2526" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>University of Tasmania</td>
@@ -199,6 +204,25 @@ world_map
 </table>
 </body>
 
+### France: 
+
+<body>
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th style="width:50%">Name</th>
+                <th>Affiliation</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Pr Julie Haesebaert <a href="https://orcid.org/0000-0001-9109-5604" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>RESHAPE Inserm U1290</td>
+            </tr>
+        </tbody>
+</table>
+</body>
+
 ### Italy: 
 
 <body>
@@ -271,6 +295,10 @@ world_map
                 <td>Prof Bo Norrving <a href="https://orcid.org/0000-0002-8024-5096" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Lund University</td>
             </tr>
+            <tr>
+                <td>A/Prof Teresa Ullberg <a href="https://orcid.org/0000-0002-6717-0915" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Institution of Clinical Sciences, Lund, Neurology. Skåne University Hospital, dept. of Neurology</td>
+            </tr>
         </tbody>
 </table>
 </body>
@@ -312,6 +340,10 @@ world_map
             <tr>
                 <td>Prof William Whiteley <a href="https://orcid.org/0000-0002-4816-8991" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>University of Edinburgh</td>
+            </tr>
+            <tr>
+                <td>Prof Terry Quinn </td>
+                <td>University of Glasgow</td>
             </tr>
         </tbody>
 </table>
