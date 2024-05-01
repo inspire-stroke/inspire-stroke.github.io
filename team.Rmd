@@ -10,6 +10,7 @@ library(kableExtra)
 
 library(leaflet)
 library(rnaturalearth)
+library(htmlwidgets)
 ```
 
 <head>
@@ -92,6 +93,7 @@ world_map <- leaflet(whole) %>% addTiles() %>%
                                        fillOpacity = 0.7,
                                        bringToFront = TRUE)) 
 
+saveWidget(world_map, file = "map.html")
 world_map
 ```
 
