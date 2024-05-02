@@ -93,7 +93,15 @@ world_map <- leaflet(whole) %>% addTiles() %>%
                                        fillOpacity = 0.7,
                                        bringToFront = TRUE)) 
 
-saveWidget(world_map, file = "map.html")
+web_world_map <- leaflet(whole) %>% addTiles() %>% 
+  addPolygons(fillColor = "orange",weight =1,
+              color = "white", fillOpacity = 0.7,label = ~popup_text,
+              highlight = highlightOptions(weight = 4,
+                                       color = "#666",
+                                       fillOpacity = 0.7,
+                                       bringToFront = TRUE)) 
+
+saveWidget(web_world_map, file = "map.html")
 world_map
 ```
 
