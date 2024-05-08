@@ -77,8 +77,8 @@ DK <- world[world$name == "Denmark",]
 KR <- world[world$name == "South Korea",]
 
 
-whole <- rbind(AU,AUT,CA,CN,DK,FR,KR,IT,NZ,PO,SW,CH,UK,USA)
-whole$people_count <- c(4,1,6,1,1,2,1,1,1,1,2,1,3,3)
+whole <- rbind(AU,AUT,CA,CN,DK,FR,IT,KR,NZ,PO,SW,CH,UK,USA)
+whole$people_count <- c(4,1,6,1,1,2,1,2,1,1,2,1,3,3)
 whole$popup_text <- 
   paste0('<strong>', whole$subunit, '</strong>',
          '<br/>', 'Collaborators: ', '<strong>', whole$people_count, '</strong>', ' ') %>% 
@@ -292,6 +292,10 @@ world_map
             <tr>
                 <td>Prof Hyo Jung Lee <a href="https://orcid.org/0000-0002-3835-9647" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Yonsei University, Korea</td>
+            </tr>
+            <tr>
+                <td>Prof Jong-Moo Park <a href="https://orcid.org/0000-0002-4199-3024" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Department of Neurology, Uijeongbu Eulji Medical Center, Eulji University</td>
             </tr>
         </tbody>
 </table>
