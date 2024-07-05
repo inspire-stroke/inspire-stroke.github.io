@@ -55,5 +55,5 @@ The INSPIRE-STROKE Coordinating Centre has been approved by Monash University Hu
 # Funding
 
 <div style='text-align: justify;'>
-The initial establishment of INSPIRE-STROKE is being funded by a pilot project grant awarded from the STOPstroke NHMRC Synergy Grant (1182071). Research fellowship support has also been obtained from the National Heart Foundation of Australia for investigators A/Prof Kilkenny (105737) and Dr Dalli (107125).
+The initial establishment of INSPIRE-STROKE is being funded by a pilot project grant awarded from the STOPstroke NHMRC Synergy Grant (1182071). Research fellowship support has also been obtained from the National Heart Foundation of Australia for investigators Prof Kilkenny (105737) and Dr Dalli (107125).
 </div>
