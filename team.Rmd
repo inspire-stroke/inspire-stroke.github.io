@@ -35,15 +35,15 @@ library(htmlwidgets)
                 <td>Monash University</td>
             </tr>
             <tr>
-                <td>Prof Dominique Cadilhac <a href="https://orcid.org/0000-0001-8162-682X" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
-                <td>Monash University</td>
-            </tr>
-            <tr>
                 <td>Dr Lachlan Dalli (Program Manager) <a href="https://orcid.org/0000-0003-1449-9132" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Monash University</td>
             </tr>
             <tr>
                 <td>Dr Muideen Olaiya (Program Manager) <a href="https://orcid.org/0000-0002-4070-0533" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Monash University</td>
+            </tr>
+            <tr>
+                <td>Prof Dominique Cadilhac <a href="https://orcid.org/0000-0001-8162-682X" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Monash University</td>
             </tr>
         </tbody>
