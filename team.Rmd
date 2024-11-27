@@ -73,7 +73,7 @@ KR <- world[world$name == "South Korea",]
 
 
 whole <- rbind(AU,AUT,CA,CN,DK,FR,IT,KR,NZ,PO,SW,CH,UK,USA)
-whole$people_count <- c(5,1,6,1,1,2,1,2,1,1,2,1,3,4)
+whole$people_count <- c(5,1,6,1,1,3,1,2,1,1,2,1,3,4)
 whole$popup_text <- 
   paste0('<strong>', whole$subunit, '</strong>',
          '<br/>', 'Collaborators: ', '<strong>', whole$people_count, '</strong>', ' ') %>% 
@@ -253,6 +253,10 @@ world_map
             <tr>
                 <td>Pr Julie Haesebaert <a href="https://orcid.org/0000-0001-9109-5604" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>RESHAPE Inserm U1290</td>
+            </tr>
+            <tr>
+                <td>Dr Anne-Marie Schott <a href="https://orcid.org/0000-0003-3337-4474" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Université Lyon 1</td>
             </tr>
         </tbody>
 </table>
