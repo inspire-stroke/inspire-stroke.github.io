@@ -6,6 +6,16 @@ title: "Project Findings and Results"
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
+```{css}
+img {
+  margin-bottom: 0 ;
+  padding-bottom: 0 ;
+  display: block;
+  border: 0
+}
+```
+
 <head>
 <link rel="preconnect" href="//fonts.googleapis.com">
 <link rel="preconnect" href="//fonts.gstatic.com" crossorigin>
@@ -15,15 +25,28 @@ knitr::opts_chunk$set(echo = FALSE)
 
 
 # Media
-Accessing data to improve outcomes. International Stroke Conference Magazines. 6 Feb 2025. https://isc.hub.heart.org/daily-coverage/article/22931770/accessing-data-to-improve-outcomes
+<a href="https://isc.hub.heart.org/daily-coverage/article/22931770/accessing-data-to-improve-outcomes" target="_blank">Accessing data to improve outcomes. International Stroke Conference Magazines. 6 Feb 2025.</a>
 
+<iframe src="https://isc.hub.heart.org/daily-coverage/article/22931770/accessing-data-to-improve-outcomes" width="100%" height="600px"></iframe>
 
 ----
 
 # Conference Abstracts
-Kilkenny MF, Reeves M, Yu AYX. Establishing an International Network for Standardised Population Insights and Real-World Evidence for Stroke (INSPIRE-STROKE). International Stroke Conference. Los Angeles, USA. 15-17 May 2024. [poster presentation]
+
+
+
+### Interntional Stroke Conference
+<center><img src="images/conference_MK.jpg" style="height=600px; width:700px; display: block; margin-bottom: 0;"></center>
+<p style = "font-size: 16px;">Kilkenny MF, Reeves M, Yu AYX. Establishing an International Network for Standardised Population Insights and Real-World Evidence for Stroke (INSPIRE-STROKE). International Stroke Conference. Los Angeles, USA. 5-7 Feb 2025. [poster presentation]</p>
+
+<br>
+
+
+### 10th European Stroke Organisation Conference
+<img src="images/conference_LD.jpg" style="width:80%; height:auto; display: block; margin-bottom: 0;">
+<p style = "font-size: 16px;">Dalli LL, Olaiya MT, Cadilhac DA, Reeves M, Gall S, Nedkoff L, Yu AYX, Kapral MK, Kilkenny MF. Establishing an International Network for Standardised Population Insights and Real-World Evidence for Stroke (INSPIRE-STROKE). 10th European Stroke Organisation Conference. Basel, Switzerland. 15-17 May 2024. [poster presentation]</p>
 
 ----
 
 # Publications
-Yu AYX, Bravata DM, Norrving B, Reeves MJ, Liu L, Kilkenny MF. Measuring Stroke Quality: Methodological Considerations in Selecting, Defining, and Analyzing Quality Measures. Stroke. 2022;53(10):3214-3221. doi:10.1161/STROKEAHA.122.036485
+1. Yu AYX, Bravata DM, Norrving B, Reeves MJ, Liu L, Kilkenny MF. Measuring Stroke Quality: Methodological Considerations in Selecting, Defining, and Analyzing Quality Measures. Stroke. 2022;53(10):3214-3221. doi:10.1161/STROKEAHA.122.036485
