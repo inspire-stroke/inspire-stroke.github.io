@@ -13,10 +13,8 @@ navbar:
       href: index.html
     - text: "About"
       href: about.html
-   # - text: "Publications"     Will add content later on for these 2 pages
-   #   href: publication.html
-   # - text: "Visualisations"
-   #   href: visual.html
+    - text: "Outputs"     
+      href: publication.html
     - text: "Team"
       href: team.html
     - text: "Join"
