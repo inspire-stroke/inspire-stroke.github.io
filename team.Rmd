@@ -70,10 +70,11 @@ SW <- world[world$name == "Sweden",]
 FR <- world[world$name == "France",]
 DK <- world[world$name == "Denmark",]
 KR <- world[world$name == "South Korea",]
+LTU <- world[world$name == "Lithuania",]
 
 
-whole <- rbind(AU,AUT,CA,CN,DK,FR,IT,KR,NZ,PO,SW,CH,UK,USA)
-whole$people_count <- c(5,1,6,1,1,3,1,2,1,1,2,1,3,4)
+whole <- rbind(AU,AUT,CA,CN,DK,FR,IT,KR,LTU,NZ,PO,SW,CH,UK,USA)
+whole$people_count <- c(5,1,6,1,1,3,1,2,1,1,1,2,1,3,4)
 whole$popup_text <- 
   paste0('<strong>', whole$subunit, '</strong>',
          '<br/>', 'Collaborators: ', '<strong>', whole$people_count, '</strong>', ' ') %>% 
@@ -303,6 +304,27 @@ world_map
         </tbody>
 </table>
 </body>
+
+
+### Lithuania:
+
+<body>
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th style="width:50%">Name</th>
+                <th>Affiliation</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>A/Prof Rytis Masiliūnas <a href="https://orcid.org/0000-0002-8033-9682" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Vilnius University</td>
+            </tr>
+        </tbody>
+</table>
+</body>
+
 
 ### New Zealand: 
 
