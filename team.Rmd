@@ -74,7 +74,7 @@ LTU <- world[world$name == "Lithuania",]
 
 
 whole <- rbind(AU,AUT,CA,CN,DK,FR,IT,KR,LTU,NZ,PO,SW,CH,UK,USA)
-whole$people_count <- c(5,1,6,1,1,3,1,2,1,1,1,2,1,3,4)
+whole$people_count <- c(5,1,6,1,2,3,1,2,1,1,1,2,1,3,4)
 whole$popup_text <- 
   paste0('<strong>', whole$subunit, '</strong>',
          '<br/>', 'Collaborators: ', '<strong>', whole$people_count, '</strong>', ' ') %>% 
@@ -228,6 +228,10 @@ world_map
             </tr>
         </thead>
         <tbody>
+            <tr>
+                <td>Prof Christine Christiansen <a href="https://orcid.org/0000-0002-0330-8997" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>Cardiovascular research unit, Nordsjaellands Hospital Hilleroed, Denmark and Dept. of Neurology, Bispebjerg Hospital</td>
+            </tr>
             <tr>
                 <td>Prof Hanne Christensen <a href="https://orcid.org/0000-0002-7472-3194" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Copenhagen University Hospital, Bispebjerg</td>
