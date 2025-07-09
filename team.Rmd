@@ -7,6 +7,7 @@ knitr::opts_chunk$set(echo = FALSE)
 #install.packages("kableExtra")
 library(fontawesome)
 library(kableExtra)
+library(sf)
 
 library(leaflet)
 library(rnaturalearth)
@@ -71,6 +72,12 @@ FR <- world[world$name == "France",]
 DK <- world[world$name == "Denmark",]
 KR <- world[world$name == "South Korea",]
 LTU <- world[world$name == "Lithuania",]
+
+#### Keep France Mainland Only ####
+FR_parts <- st_cast(FR, "POLYGON")
+areas <- st_area(FR_parts)
+mainland <- FR_parts[which.max(areas), ]
+FR$geometry <- mainland$geometry
 
 
 whole <- rbind(AU,AUT,CA,CN,DK,FR,IT,KR,LTU,NZ,PO,SW,CH,UK,USA)
