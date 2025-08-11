@@ -72,6 +72,7 @@ FR <- world[world$name == "France",]
 DK <- world[world$name == "Denmark",]
 KR <- world[world$name == "South Korea",]
 LTU <- world[world$name == "Lithuania",]
+FI <- world[world$name == "Finland", ]
 
 #### Keep France Mainland Only ####
 FR_parts <- st_cast(FR, "POLYGON")
@@ -80,8 +81,8 @@ mainland <- FR_parts[which.max(areas), ]
 FR$geometry <- mainland$geometry
 
 
-whole <- rbind(AU,AUT,CA,CN,DK,FR,IT,KR,LTU,NZ,PO,SW,CH,UK,USA)
-whole$people_count <- c(5,1,6,1,2,3,1,2,1,1,1,2,1,3,4)
+whole <- rbind(AU,AUT,CA,CN,DK,FI,FR,IT,KR,LTU,NZ,PO,SW,CH,UK,USA)
+whole$people_count <- c(5,1,6,1,2,2,3,1,2,1,1,1,2,1,3,4)
 whole$popup_text <- 
   paste0('<strong>', whole$subunit, '</strong>',
          '<br/>', 'Collaborators: ', '<strong>', whole$people_count, '</strong>', ' ') %>% 
@@ -242,6 +243,29 @@ world_map
             <tr>
                 <td>Prof Hanne Christensen <a href="https://orcid.org/0000-0002-7472-3194" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
                 <td>Copenhagen University Hospital, Bispebjerg</td>
+            </tr>
+        </tbody>
+</table>
+</body>
+
+### Finland: 
+
+<body>
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th style="width:50%">Name</th>
+                <th>Affiliation</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Prof Mika Martikainen <a href="https://orcid.org/0000-0002-7604-8081" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>University of Oulu and Oulu University Hospital</td>
+            </tr>
+            <tr>
+                <td>Prof 	Miia Jansson <a href="https://orcid.org/0000-0001-5815-0325" target="_blank">`r fa(name = "orcid", fill = "#a6ce39", height = "1em")`</a></td>
+                <td>University of Oulu</td>
             </tr>
         </tbody>
 </table>
