@@ -22,10 +22,14 @@ summary {
 }
 ```
 
-<div id="banner">
-  <strong>Notice:</strong><br>
-  🌟 New website released: Please visit the website using the new URL (https://inspire-stroke.bigdatacvd.com/outputs)
-</div>
+<html>
+<meta charset="utf-8">
+<title>Redirecting…</title>
+<meta http-equiv="refresh" content="0; URL=https://inspire-stroke.bigdatacvd.com/outputs">
+<link rel="canonical" href="https://inspire-stroke.bigdatacvd.com/outputs">
+
+<p>A new website is released. If you are not redirected automatically, <a href="https://inspire-stroke.bigdatacvd.com/outputs">click here</a>.</p>
+</html>
 
 <head>
 <link rel="preconnect" href="//fonts.googleapis.com">

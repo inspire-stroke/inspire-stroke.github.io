@@ -14,10 +14,14 @@ library(rnaturalearth)
 library(htmlwidgets)
 ```
 
-<div id="banner">
-  <strong>Notice:</strong><br>
-  🌟 New website released: Please visit the website using the new URL (https://inspire-stroke.bigdatacvd.com/team)
-</div>
+<html>
+<meta charset="utf-8">
+<title>Redirecting…</title>
+<meta http-equiv="refresh" content="0; URL=https://inspire-stroke.bigdatacvd.com/team">
+<link rel="canonical" href="https://inspire-stroke.bigdatacvd.com/team">
+
+<p>A new website is released. If you are not redirected automatically, <a href="https://inspire-stroke.bigdatacvd.com/team">click here</a>.</p>
+</html>
 
 
 <head>
