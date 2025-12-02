@@ -18,6 +18,16 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 
+
+<html>
+<meta charset="utf-8">
+<title>Redirecting…</title>
+<meta http-equiv="refresh" content="0; URL=https://inspire-stroke.bigdatacvd.com/">
+<link rel="canonical" href="https://inspire-stroke.bigdatacvd.com/">
+
+<p>If you are not redirected automatically, <a href="https://inspire-stroke.bigdatacvd.com/">click here</a>.</p>
+</html>
+
 <div id="banner">
   <strong>Notice:</strong><br>
   🌟 New website released: Please visit the website using the new URL (https://inspire-stroke.bigdatacvd.com/)
