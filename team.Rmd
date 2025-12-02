@@ -14,6 +14,12 @@ library(rnaturalearth)
 library(htmlwidgets)
 ```
 
+<div id="banner">
+  <strong>Notice:</strong><br>
+  🌟 New website released: Please visit the website using the new URL (https://inspire-stroke.bigdatacvd.com/team)
+</div>
+
+
 <head>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
