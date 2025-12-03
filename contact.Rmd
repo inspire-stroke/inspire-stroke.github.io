@@ -11,9 +11,15 @@ knitr::opts_chunk$set(echo = FALSE)
 <title>Redirecting…</title>
 <meta http-equiv="refresh" content="0; URL=https://inspire-stroke.bigdatacvd.com/contact">
 <link rel="canonical" href="https://inspire-stroke.bigdatacvd.com/contact">
-
-<p>A new website is released. If you are not redirected automatically, <a href="https://inspire-stroke.bigdatacvd.com/contact">click here</a>.</p>
 </html>
+
+<div id="banner"> 
+<strong>Notice:</strong>
+<br> ✨ New update: A new INSPIRE-STROKE website has been released.
+<br><br> If you are not redirected automatically, <a href="https://inspire-stroke.bigdatacvd.com/contact">click here</a>.</div>
+
+
+<br><br><br><br><br><br><br><br><br><br>
 
 <head>
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -21,28 +27,4 @@ knitr::opts_chunk$set(echo = FALSE)
 <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
 </head>
 
-###  INSPIRE-STROKE Coordinating Centre
-
-Monash University
-\
-631 Blackburn Road
-\
-Clayton VIC 3168
-\
-Australia
-
-<a href="mailto:INSPIRE-STROKE@monash.edu" style="color: #006dab">INSPIRE-STROKE@monash.edu</a>
-
-### Director:
-
-Prof Monique Kilkenny
-
-<a href="mailto:monique.kilkenny@monash.edu" style="color: #006dab">monique.kilkenny@monash.edu</a>
-
-
-### Program Manager:
-
-Dr Lachlan Dalli
-
-<a href="mailto:lachlan.dalli@monash.edu" style="color: #006dab">lachlan.dalli@monash.edu</a>
 

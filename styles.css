@@ -103,3 +103,20 @@ body {
 @media .logo{
 }
 
+
+#banner {
+  position: fixed;
+  top: 100px;
+  left: 100px;    /* <-- put banner in left website margin */
+  
+  width: 500px;
+  background: #ffefc4;
+  border-left: 4px solid #e0c878;
+  padding: 25px 30px;
+  font-size: 30px;
+  font-weight: 600;
+  box-shadow: 0px 2px 5px rgba(0,0,0,0.15);
+  border-radius: 8px;
+
+  z-index: 500;  /* <-- lowered so video appears above it */
+}

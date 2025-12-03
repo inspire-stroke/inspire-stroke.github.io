@@ -24,11 +24,15 @@ knitr::opts_chunk$set(echo = FALSE)
 <title>Redirecting…</title>
 <meta http-equiv="refresh" content="0; URL=https://inspire-stroke.bigdatacvd.com/">
 <link rel="canonical" href="https://inspire-stroke.bigdatacvd.com/">
-
-<p>A new website is released. If you are not redirected automatically, <a href="https://inspire-stroke.bigdatacvd.com/">click here</a>.</p>
 </html>
 
+<div id="banner"> 
+<strong>Notice:</strong>
+<br> ✨ New update: A new INSPIRE-STROKE website has been released.
+<br><br> If you are not redirected automatically, <a href="https://inspire-stroke.bigdatacvd.com/">click here</a>.</div>
 
+
+<br><br><br><br><br><br><br><br><br><br>
 
 <head>
 <link rel="preconnect" href="//fonts.googleapis.com">
@@ -37,9 +41,4 @@ knitr::opts_chunk$set(echo = FALSE)
 </head>
 
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/918143996?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="INSPIRE-STROKE"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
---------------------------------------------------------------------------------------------
-
-### Stroke is a leading cause of death and disability globally
-Tackling the burden of stroke will require international collaboration and data-driven solutions to advance health policy and practice
